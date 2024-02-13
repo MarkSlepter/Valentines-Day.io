@@ -1,0 +1,75 @@
+body {
+    text-align: center;
+    margin-top: 60px;
+    font-family: cursive;
+    color: #ff001a;
+    background-image: url('Background.jpg');
+    background-size: cover;
+}
+#activityquestion {
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+.activity-item {
+    display: inline-block;
+    margin: 10px;
+    vertical-align: top;
+    color: #ff001a;
+}
+.place-selection{
+    transform: translateY(30%);
+}
+.activity-item img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 5px solid white;
+    object-fit: cover;
+    padding: 10px;
+}
+.activity-item label {
+    display: block;
+}
+.place-head{
+    color: #ff001a;
+    width: 500px;
+    height: 130px;
+    text-align: center;
+    margin: auto;
+    cursor: pointer;
+    padding: 6px 10px;
+    font-size: 50px;
+    border-radius: 12px;
+    border: 2px solid #ff001a;
+    background-color: #ffbddc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container4 {
+    background-color: #ffbddc;
+    width: 240px;
+    height: 60px;
+    margin: auto;
+    border: solid 2px #ff001a;
+    border-radius: 8px;
+    transform: translateY(260%);
+}
+.container4 .placenext-page {
+    color: #ff001a;
+    border-radius: 4px;
+    text-decoration: none;
+    font-family: cursive;
+    font-weight: 550;
+    margin: auto;
+    transition: 0.4s;
+    width: 240px;
+    height: 60px;
+    line-height: 60px;
+    display: inline-block;
+    text-align: center;
+}
+.container4 .placenext-page:hover{
+    color: #ffbddc;
+    background-color: #ff4576;
+}

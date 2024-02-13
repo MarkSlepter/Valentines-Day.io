@@ -1,0 +1,54 @@
+body {
+    background-image: url('Background.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.wchoice-but {
+    color: #ff001a;
+    position: relative;
+    width: 500px;
+    height: 140px;
+    text-align: center;
+    margin: auto;
+    cursor: pointer;
+    font-size: 50px;
+    transform: translateY(30%);
+    border: 2px solid #ff001a;
+    background-color: #ffbddc;
+    font-family: cursive;
+    border-radius: 8px;
+    padding: 15px;
+}
+.video {
+    text-align: center;
+    position: relative;
+    margin: auto;
+    transform: translateY(25%);
+}
+.back-form {
+    background-color: #ffbddc;
+    width: 190px;
+    height: 60px;
+    margin: auto;
+    border: solid 2px #ff001a;
+    border-radius: 8px;
+    transform: translateY(250%);
+}
+.container1 .wchoise-back {
+    color: #ff001a;
+    border-radius: 4px;
+    text-decoration: none;
+    font-family: cursive;
+    font-weight: 550;
+    margin: auto;
+    transition: 0.4s;
+    width: 190px;
+    height: 60px;
+    line-height: 60px;
+    display: inline-block;
+    text-align: center;
+}
+.container1 .wchoise-back:hover{
+    color: #ffbddc;
+    background-color: #ff4576;
+}

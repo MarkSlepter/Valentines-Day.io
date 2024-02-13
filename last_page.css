@@ -1,0 +1,56 @@
+body {
+    background-image: url('GoodBack.jpg');
+    background-size: cover;
+}
+.lastp-ty1 {
+    color: #ff001a;
+    width: 500px;
+    height: 100px;
+    text-align: center;
+    margin: auto;
+    cursor: pointer;
+    padding: 6px 10px;
+    font-size: 40px;
+    border-radius: 12px;
+    border: 2px solid #ff001a;
+    transform: translateY(48%);
+    background-color: #ffbddc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gif-image3 {
+    margin: auto;
+    transform: translateY(50%);
+    width: 213px;
+    height: 375px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.audio2 {
+    display: none;
+    margin: auto;
+    height: 45px;
+    /*display: flex;*/
+    transform: translateY(40%);
+    justify-content: center;
+    align-items: center;
+}
+.lastp-ty2 {
+    color: #ff001a;
+    width: 800px;
+    height: 130px;
+    text-align: center;
+    margin: auto;
+    cursor: pointer;
+    padding: 6px 10px;
+    font-size: 50px;
+    border-radius: 12px;
+    border: 2px solid #ff001a;
+    transform: translateY(180%);
+    background-color: #ffbddc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
